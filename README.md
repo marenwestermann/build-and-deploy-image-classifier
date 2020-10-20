@@ -45,7 +45,7 @@ Prediction: brushtail possum; confidence: 0.61
 
 ---
 
-This possum broke into my share house during the night and as a revenge switched off the hot water and part of the electricity the next day. (Don't mess with Australian wildlife!)
+This possum broke into my share house during the night and as a revenge for getting kicked out switched off the hot water and part of the electricity the next day. (Don't mess with Australian wildlife!)
 
 <img src="images/brushtail_possum6.jpg" alt="drawing" height="200"/>
 
